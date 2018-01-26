@@ -1,2 +1,2 @@
 # APS-Materials
-The basic code snippets as well as anything i find interesting
+Refer to materials. These contain the basi code snippets which you can use whenever required.
